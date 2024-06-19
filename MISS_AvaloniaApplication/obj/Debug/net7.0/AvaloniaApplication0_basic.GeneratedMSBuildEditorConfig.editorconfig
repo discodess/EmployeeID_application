@@ -1,0 +1,36 @@
+is_global = true
+build_property.AvaloniaNameGeneratorIsEnabled = true
+build_property.AvaloniaNameGeneratorBehavior = InitializeComponent
+build_property.AvaloniaNameGeneratorDefaultFieldModifier = internal
+build_property.AvaloniaNameGeneratorFilterByPath = *
+build_property.AvaloniaNameGeneratorFilterByNamespace = *
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AvaloniaApplication0_basic
+build_property.ProjectDir = C:\LeeJunYoung\Final_Project\Avalonia_Final\4_AvaloniaApplication_06_03_Wave3\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/LeeJunYoung/Final_Project/Avalonia_Final/4_AvaloniaApplication_06_03_Wave3/App.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/LeeJunYoung/Final_Project/Avalonia_Final/4_AvaloniaApplication_06_03_Wave3/Views/BackWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/LeeJunYoung/Final_Project/Avalonia_Final/4_AvaloniaApplication_06_03_Wave3/Views/GoWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/LeeJunYoung/Final_Project/Avalonia_Final/4_AvaloniaApplication_06_03_Wave3/Views/HelpWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/LeeJunYoung/Final_Project/Avalonia_Final/4_AvaloniaApplication_06_03_Wave3/Views/MainWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/LeeJunYoung/Final_Project/Avalonia_Final/4_AvaloniaApplication_06_03_Wave3/Views/QrWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
